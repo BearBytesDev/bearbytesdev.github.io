@@ -6,6 +6,8 @@ dist/
 
 .vscode/
 
+.jampack
+
 # dependencies
 node_modules/
 
