@@ -31,7 +31,7 @@ const ogImage = (text: string) => {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        color: "#ab4c08",
+        color: "#ff6b01",
       }}
     >
       <div
@@ -39,7 +39,7 @@ const ogImage = (text: string) => {
           position: "absolute",
           top: "-1px",
           right: "-1px",
-          border: "4px solid #ab4c08",
+          border: "4px solid #ff6b01",
           background: "#212737",
           opacity: "0.9",
           borderRadius: "4px",
@@ -53,7 +53,7 @@ const ogImage = (text: string) => {
 
       <div
         style={{
-          border: "4px solid #ab4c08",
+          border: "4px solid #ff6b01",
           background: "#212737",
           borderRadius: "4px",
           display: "flex",
