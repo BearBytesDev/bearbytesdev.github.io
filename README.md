@@ -1,1 +1,1 @@
-# bearbytesdev.github.io
+This is just my Astro based personal blog
