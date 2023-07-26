@@ -3,7 +3,7 @@ author: Davide Maggi
 pubDatetime: 2023-07-22T15:22:00Z
 title: Hello World of Wonders!
 postSlug: hello-world
-featured: true
+featured: false
 draft: false
 tags:
   - docs
