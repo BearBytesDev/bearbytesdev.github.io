@@ -25,7 +25,7 @@ hello_world()
 
 There it is, a few lines of code that bridge the gap between imagination and reality. Running this simple Python script unleashes a greeting to the virtual universe and lets us know that we've successfully set sail on this exciting adventure! 🚀
 
-At "The Code Jester's Lair," we celebrate the power of this timeless phrase – "Hello, World!" It signifies not just an introduction but also the connection between developers across the globe, united by a shared passion for innovation.
+At BearBytes we celebrate the power of this timeless phrase – "Hello, World!" It signifies not just an introduction but also the connection between developers across the globe, united by a shared passion for innovation.
 
 As we embark on this blog, expect a treasure trove of tech discoveries, coding tales, and hilarious escapades from the realms of software development. We'll dive into the latest tech trends, share our favorite programming tips, and indulge in delightful geeky banter.
 
