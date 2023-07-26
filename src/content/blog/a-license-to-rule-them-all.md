@@ -25,39 +25,39 @@ Welcome, fellow developers, to the quirky world of open source licenses! These s
 
 # Part 1: An Overview of Common Open Source Licenses
 
-GNU General Public License (GPL): Known as the "Hippie License" of the open source world, the GPL spreads the love and mandates that any derivative works must also embrace the open-source spirit. Share and share alike, my friends!
+**GNU General Public License (GPL):** Known as the "Hippie License" of the open source world, the GPL spreads the love and mandates that any derivative works must also embrace the open-source spirit. Share and share alike, my friends!
 
-**MIT License**: The "Permissive Paladin" of licenses, MIT grants you the freedom to wield the code, modify it as you please, and even keep your hard-earned name and disclaimer notices intact. Take that, legal dungeons!
+**MIT License:** The "Permissive Paladin" of licenses, MIT grants you the freedom to wield the code, modify it as you please, and even keep your hard-earned name and disclaimer notices intact. Take that, legal dungeons!
 
-**Apache License 2.0**: Say hello to the "Apache Avenger!" This permissive hero comes bearing gifts of usage, modification, and distribution, plus a nifty patent grant, shielding you from potential legal villains.
+**Apache License 2.0:** Say hello to the "Apache Avenger!" This permissive hero comes bearing gifts of usage, modification, and distribution, plus a nifty patent grant, shielding you from potential legal villains.
 
 **BSD Licenses** (e.g., BSD-2-Clause and BSD-3-Clause): Meet the "BSD Bards" - with a touch of simplicity and generosity, they bestow upon us the power to use, modify, and distribute their creations, as long as we remember to credit the original troubadours.
 
-**Mozilla Public License (MPL)**: Enter the "Mozilla Mage," a mystical blend of copyleft and permissive elements. This enigmatic sorcerer requires you to share your modifications while also welcoming them into the company of proprietary magic. A true paradox!
+**Mozilla Public License (MPL):** Enter the "Mozilla Mage," a mystical blend of copyleft and permissive elements. This enigmatic sorcerer requires you to share your modifications while also welcoming them into the company of proprietary magic. A true paradox!
 
 # Part 2: License Verification for Libraries and Dependencies
 
 Ah, the land of third-party libraries and dependencies - a magical bazaar where developers find the tools they need to make their creations shine. But beware! Not verifying their licenses can lead to perilous quests:
 
-**Compliance and Legal Risks**: Embrace the wrong license, and you might find yourself facing the wrath of the dreaded Legal Dragon. Violating a license can lead to costly battles, leaving you singing sad songs of regret.
+**Compliance and Legal Risks:** Embrace the wrong license, and you might find yourself facing the wrath of the dreaded Legal Dragon. Violating a license can lead to costly battles, leaving you singing sad songs of regret.
 
-**Distribution and Monetization**: The enchanting licenses may have conditions that dictate how you share your precious creations or even how you fill your coin pouch. Always read the magical scrolls carefully!
+**Distribution and Monetization:** The enchanting licenses may have conditions that dictate how you share your precious creations or even how you fill your coin pouch. Always read the magical scrolls carefully!
 
-**Compatibility**: Mixing incompatible licenses is like casting conflicting spells - it could lead to disastrous conflicts and limit your project's reach. Best to wield compatible licenses to avoid magical mishaps!
+**Compatibility:** Mixing incompatible licenses is like casting conflicting spells - it could lead to disastrous conflicts and limit your project's reach. Best to wield compatible licenses to avoid magical mishaps!
 
-**Future-proofing**: The world of open source is ever-changing, and licenses can evolve like potions in a cauldron. Stay vigilant! Regularly verify the licenses to avoid nasty surprises in future updates.
+**Future-proofing:** The world of open source is ever-changing, and licenses can evolve like potions in a cauldron. Stay vigilant! Regularly verify the licenses to avoid nasty surprises in future updates.
 
 # Part 3: Tools for License Verification
 
 Fear not, brave developers, for we have enchanted tools to aid in our license quests:
 
-**FOSSology**: This wise old sage scans code repositories, deciphering the cryptic texts of licenses, and provides detailed reports of their magical effects.
+**FOSSology:** This wise old sage scans code repositories, deciphering the cryptic texts of licenses, and provides detailed reports of their magical effects.
 
-**SPDX (Software Package Data Exchange)**: An ancient codex for sharing license and copyright information, ensuring that everyone speaks the same magical language.
+**SPDX (Software Package Data Exchange):** An ancient codex for sharing license and copyright information, ensuring that everyone speaks the same magical language.
 
-**Licensee**: A trusty gem with the gift of divination! It peers into the metadata of dependencies, unveiling their true licensing nature.
+**Licensee:** A trusty gem with the gift of divination! It peers into the metadata of dependencies, unveiling their true licensing nature.
 
-**FossID**: A magical artifact that automates the identification of licenses and potential security vulnerabilities. A true ally in the battle for code purity!
+**FossID:** A magical artifact that automates the identification of licenses and potential security vulnerabilities. A true ally in the battle for code purity!
 
 # Part 4: The Perils of Custom Licenses
 
@@ -65,9 +65,9 @@ Ah, crafting a custom license - a tempting path paved with creativity and arroga
 
 **Legal Labyrinth:** Designing a custom license without proper legal counsel is like summoning a horde of mischievous imps. Ambiguous terms and contradictions will surely follow!
 
-**Compatibility Conundrum**: Your custom license may not play well with others, leading to an isolation spell on your code, alienating it from the open source community.
+**Compatibility Conundrum:** Your custom license may not play well with others, leading to an isolation spell on your code, alienating it from the open source community.
 
-**Lack of Wizardry**: Let's face it - we may be coding wizards, but navigating the legal labyrinth requires a different kind of sorcery. Leave this task to the true legal sages!
+**Lack of Wizardry:** Let's face it - we may be coding wizards, but navigating the legal labyrinth requires a different kind of sorcery. Leave this task to the true legal sages!
 
 # Conclusion
 
