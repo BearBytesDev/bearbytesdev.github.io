@@ -13,11 +13,8 @@ tags:
 ogImage: ""
 description:
   REST and GraphQL engage in a friendly battle of APIs. REST wields fixed endpoints, while GraphQL shape-shifts with custom queries. GraphQL's magic lies in precise data retrieval, sparing us from overfetching! The dev team rejoices as frontend and backend unite in symphonic collaboration, thanks to GraphQL's single endpoint. Let REST and GraphQL be allies in this epic adventure of coding! 🍻🐉
-
+postImage: /assets/blog/graphql.png
 ---
-
-![REST Vs. GraphQL.](/assets/blog/graphql.png)
-
 ## Table of contents
 
 # Introduction

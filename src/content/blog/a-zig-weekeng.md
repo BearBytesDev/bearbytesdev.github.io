@@ -11,11 +11,9 @@ tags:
 ogImage: ""
 description:
   Hey there, fellow tech enthusiasts! Buckle up for a wild ride as I take you through my weekend escapade with Zig, the programming language that left me feeling zippy and zesty! 🚀
+postImage: /assets/blog/zig-logo.svg
 
 ---
-
-![Zig Logo.](/assets/blog/zig-logo.svg)
-
 ## Table of contents
 
 # Zigzagging into Zig
@@ -52,7 +50,7 @@ My weekend tryst with Zig was nothing short of exhilarating. From its simplicity
 
 Now, it's back to the grind with my other coding projects, but I know that whenever I feel the need for some zing in my coding life, I'll be back in Zigland, zigzagging through lines of code with a smile on my face! Until next time, happy coding! 😊
 
-``` zig
+```zig
 const std = @import("std");
 const print = std.debug.print;
 

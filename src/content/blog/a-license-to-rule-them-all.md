@@ -12,11 +12,9 @@ tags:
 ogImage: ""
 description:
   "Embark on a whimsical journey through the world of open source licenses in this humorous guide for developers. Explore common licenses, learn why license verification is vital, and avoid the pitfalls of crafting custom licenses. Laugh and learn as you navigate the enchanting realm of open source coding!"
+postImage: /assets/blog/license_article.png
 
 ---
-
-![License Struggle.](/assets/blog/license_article.png)
-
 ## Table of contents
 
 # Introduction
